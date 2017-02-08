@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #888;
+}
+
+.title {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-70%,-280%);
+}
+
+.text {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	color: #fff;
+	font-size: 1.4em;
+}
+
+.text span {
+	font-family: "microsoft yahei";
+	font-size: 1.8em;
+	font-weight: bolder;
+}
